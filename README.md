@@ -1,5 +1,5 @@
 # Parking App
-
+lkj
 The project contains two parts. First one is a solidity contract that handles all of the logic and state of the parking ticket purchases. The second part is a frontend app that allows different types of users to interact with a parking contract (buy tickets, withdraw funds, verify bought tickets...).
 
 ## Features
